@@ -216,8 +216,10 @@ TrainerHouseSignText:
 ViridianCityOldManEventText1:
 	text "Uugh...! Hic..."
 	line "Hold it right"
-	cont "there! Lissen to"
-	cont "what I hafta say!"
+	cont "there!"
+
+	para "Lissen to what I"
+	line "hafta say!"
 
 	para "...Hey! Don' go,"
 	line "I said!"
@@ -226,12 +228,15 @@ ViridianCityOldManEventText1:
 ViridianCityOldManEventText2:
 	text "Good grief,"
 	line "Grandpa!"
-	cont "Sleeping here"
-	cont "of all places!"
+
+	para "Sleeping here"
+	line "of all places!"
 
 	para "It can't be"
-	line "helped. We have"
-	cont "to wait until he"
+	line "helped..."
+
+	para "We have to"
+	line "wait until he"
 	cont "sobers up..."
 	done
 
@@ -257,8 +262,9 @@ ViridianCityOldManEventText5:
 
 	para "When you catch a"
 	line "#MON, #DEX"
-	cont "is automatically"
-	cont "updated."
+
+	para "is automatically"
+	line "updated."
 
 	para "What? Don't you"
 	line "know how to catch"
@@ -281,15 +287,17 @@ ViridianCityWestSideBoyText:
 
 	para "It's great that"
 	line "you can carry and"
-	cont "use #MON any"
-	cont "time, anywhere!"
+
+	para "use #MON any"
+	line "time, anywhere!"
 	done
 
 ViridianCityBugYoungsterText1:
 	text "You know about"
 	line "the two kinds"
-	cont "of caterpillar"
-	cont "#MON?"
+
+	para "of caterpillar"
+	line "#MON?"
 	done
 
 ViridianCityBugYoungsterText2:
@@ -309,8 +317,9 @@ ViridianCityOldMansDaughterText:
 	text "When I go shop in"
 	line "PEWTER CITY, I"
 	cont "have to take the"
-	cont "winding trail in"
-	cont "VIRIDIAN FOREST."
+
+	para "winding trail in"
+	line "VIRIDIAN FOREST."
 	done
 
 ViridianCityManOutsideGymText1:
