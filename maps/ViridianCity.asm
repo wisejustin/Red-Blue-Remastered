@@ -196,10 +196,6 @@ ViridianCitySignText:
 ViridianGymSignText:
 	text "VIRIDIAN CITY"
 	line "#MON GYM"
-	cont "LEADER: …"
-
-	para "The rest of the"
-	line "text is illegible…"
 	done
 
 ViridianCityWelcomeSignText:
@@ -215,6 +211,124 @@ TrainerHouseSignText:
 
 	para "The Club for Top"
 	line "Trainer Battles"
+	done
+
+ViridianCityOldManEventText1:
+	text "Uugh...! Hic..."
+	line "Hold it right"
+	cont "there! Lissen to"
+	cont "what I hafta say!"
+
+	para "...Hey! Don' go,"
+	line "I said!"
+	done
+
+ViridianCityOldManEventText2:
+	text "Good grief,"
+	line "Grandpa!"
+	cont "Sleeping here"
+	cont "of all places!"
+
+	para "It can't be"
+	line "helped. We have"
+	cont "to wait until he"
+	cont "sobers up..."
+	done
+
+ViridianCityOldManEventText3:
+	text "Mmn..."
+	line "Looks like I was"
+	cont "pretty drunk!"
+
+	para "My head hurts..."
+
+	para "Are you in a"
+	cont "hurry?"
+	done
+
+ViridianCityOldManEventText4:
+	text "Time is money..."
+	line "Go along then."
+	done
+
+ViridianCityOldManEventText5:
+	text "I see you're using"
+	line "a #DEX."
+
+	para "When you catch a"
+	line "#MON, #DEX"
+	cont "is automatically"
+	cont "updated."
+
+	para "What? Don't you"
+	line "know how to catch"
+	cont "#MON?"
+
+	para "I'll show you"
+	line "how to then."
+	done
+
+ViridianCityOldManEventText6:
+	text "First, you need"
+	line "to weaken the"
+	cont "target #MON."
+	done
+
+ViridianCityWestSideBoyText:
+	text "Those # BALLs"
+	line "at your waist!"
+	cont "You have #MON!"
+
+	para "It's great that"
+	line "you can carry and"
+	cont "use #MON any"
+	cont "time, anywhere!"
+	done
+
+ViridianCityBugYoungsterText1:
+	text "You know about"
+	line "the two kinds"
+	cont "of caterpillar"
+	cont "#MON?"
+	done
+
+ViridianCityBugYoungsterText2:
+	text "Oh, OK then!"
+	done
+
+ViridianCityBugYoungsterText3:
+	text "CATERPIE has no"
+	line "poison, but"
+	cont "WEEDLE does."
+
+	para "Watch out for its"
+	line "POISON STING!"
+	done
+
+ViridianCityOldMansDaughterText:
+	text "When I go shop in"
+	line "PEWTER CITY, I"
+	cont "have to take the"
+	cont "winding trail in"
+	cont "VIRIDIAN FOREST."
+	done
+
+ViridianCityManOutsideGymText1:
+	text "This #MON GYM"
+	line "is always closed."
+
+	para "I wonder who the"
+	line "LEADER is?"
+	done
+
+ViridianCityManOutsideGymText2:
+	text "VIRIDIAN GYM's"
+	line "LEADER returned!"
+	done
+
+ViridianCityGymLocked:
+	text "The GYM's doors"
+	line "are locked..."
 	done
 
 ViridianCity_MapEventHeader:
